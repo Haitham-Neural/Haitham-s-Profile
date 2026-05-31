@@ -3,7 +3,7 @@
 > Master’s in Mathematics, Al-Nahrain University, 2025
 
 ## About Me
-I specialize in Numerical Analysis, Neural Networks Methods for Solving Systems, and Machine Learning Methods for Solving Systems. I use this portfolio to showcase projects, tutoring materials, and code.
+I specialize in Numerical Analysis, Neural Networks Methods for Solving Systems, and Machine Learning Methods for Solving Systems. I use this portfolio to showcase projects.
 
 ## Featured Projects
 
