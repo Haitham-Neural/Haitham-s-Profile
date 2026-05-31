@@ -30,5 +30,5 @@ I specialize in Numerical Analysis, Neural Networks Methods for Solving Systems,
 
 ## Contact
 - Email: haitham.majid@yahoo.com, haitbig@gmail.com
-- LinkedIn: linkedin.com/in/hmkhazeem
+- LinkedIn: https://www.linkedin.com/in/hmkhazeem
 
