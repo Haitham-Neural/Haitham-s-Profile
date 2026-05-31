@@ -12,7 +12,7 @@ I specialize in Numerical Analysis, Neural Networks Methods for Solving Systems,
 - **Tools:** Matlab
 - **Results:** Efficient Solutions
 
-### 2. Physics-Informed Neural Networks for FDIDAEs
+### 2. Least Squares Support Vector Machines for FDIDAEs
 - **Goal:** Solving Fractional Order Delay Integro-Differential Algebraic Equations Using Least Squares Support Vector Machines Method.
 - **Tools:** Matlab
 - **Key result:** Efficient solutions
